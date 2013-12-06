@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "Liberation Mono:pixelsize=12:antialias=false:autohint=false";
-static int borderpx = 2;
+static char font[] = "hermit:pixelsize=16:antialias=true:autohint=false";
+static int borderpx = 1;
 static char shell[] = "/bin/sh";
 
 /* Kerning / character bounding-box mutlipliers */
