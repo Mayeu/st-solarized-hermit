@@ -7,7 +7,7 @@
  */
 static char font[] = "hermit:pixelsize=16:antialias=true:autohint=false";
 static int borderpx = 1;
-static char shell[] = "/bin/sh";
+static char shell[] = "/bin/bash";
 
 /* Kerning / character bounding-box mutlipliers */
 float cwscale = 1.0;
